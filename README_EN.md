@@ -1,3 +1,5 @@
+![Blockchain banner](https://github.com/user-attachments/assets/433108b8-070d-4a39-9f68-5a68760853f1)
+
 # ⛓️ Introduction to Blockchain
 
 ### 📘 Versión en español  
