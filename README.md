@@ -124,7 +124,7 @@ Blockchain no es solo para criptomonedas. Puede usarse en:
 - [📘 Blockchain Demo (interactivo)](https://andersbrownworth.com/blockchain/)
 - [📖 Mastering Bitcoin – Andreas Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
 - [🌐 Ethereum.org - Documentación oficial](https://ethereum.org/en/developers/docs/)
-- [🎥 Curso Blockchain Gratis - Platzi](https://platzi.com/cursos/blockchain/)
+- [🎥 Curso Blockchain Gratis - Platzi](https://platzi.com/cursos/bitcoin-blockchain/)
 
 ---
 
